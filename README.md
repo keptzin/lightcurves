@@ -1,5 +1,5 @@
 # lightcurves (phase dispersion minimization)
-string length method:
+STRING LENGTH METHOD:
 
 -download photometry (JD & calibrated magnitude) as tsv
 
@@ -7,5 +7,5 @@ string length method:
 
 -run cell and download period vs string length
 
-standard deviation method:
+STANDARD DEVIATION METHOD:
 WIP
